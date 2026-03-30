@@ -1,0 +1,41 @@
+station_id,name,city,province,latitude,longitude,network,connector_type,max_power_kw,num_stalls,typical_wait_min,open_24h,indoor_outdoor,amenities
+1,Tesla Supercharger – Toronto Scarborough,Toronto,ON,43.7734,-79.2577,Tesla,Tesla,250,16,0,1,outdoor,"Food court, Walmart, restaurants"
+2,Tesla Supercharger – Toronto Yorkdale,Toronto,ON,43.7255,-79.4522,Tesla,Tesla,250,20,5,1,outdoor,Yorkdale Mall – full dining options
+3,Tesla Supercharger – Mississauga Heartland,Mississauga,ON,43.583,-79.708,Tesla,Tesla,250,12,5,1,outdoor,"Costco, restaurants, coffee"
+4,Electrify Canada – Pickering Town Centre,Pickering,ON,43.8345,-79.0892,Electrify Canada,CCS/CHAdeMO,150,6,15,1,outdoor,Pickering Town Centre mall
+5,FLO – Toronto Don Mills,Toronto,ON,43.7285,-79.3418,FLO,CCS/CHAdeMO,50,4,20,1,outdoor,Shops at Don Mills
+6,ChargePoint – Oakville Place,Oakville,ON,43.4675,-79.6877,ChargePoint,CCS,62,4,25,1,outdoor,"Oakville Place Mall, Tim Hortons"
+7,Tesla Supercharger – Whitby,Whitby,ON,43.8975,-78.9429,Tesla,Tesla,150,8,10,1,outdoor,"Tim Hortons, restaurants"
+8,Tesla Supercharger – Port Hope,Port Hope,ON,43.954,-78.298,Tesla,Tesla,150,6,10,1,outdoor,Tim Hortons
+9,Electrify Canada – Cobourg,Cobourg,ON,43.96,-78.165,Electrify Canada,CCS/CHAdeMO,150,4,15,1,outdoor,"Walmart, fast food"
+10,Tesla Supercharger – Belleville,Belleville,ON,44.1628,-77.3832,Tesla,Tesla,250,10,5,1,outdoor,"Quinte Mall – food court, restaurants"
+11,Tesla Supercharger – Kingston,Kingston,ON,44.2298,-76.4919,Tesla,Tesla,250,12,5,1,outdoor,"Frontenac Mall – restaurants, coffee"
+12,Electrify Canada – Kingston,Kingston,ON,44.238,-76.51,Electrify Canada,CCS/CHAdeMO,150,4,15,1,outdoor,Cataraqui Centre mall
+13,ChargePoint – Kingston Downtown,Kingston,ON,44.2312,-76.486,ChargePoint,CCS,50,2,25,1,outdoor,Walk to historic waterfront
+14,Tesla Supercharger – Gananoque,Gananoque,ON,44.3295,-76.1644,Tesla,Tesla,150,6,10,1,outdoor,Near 1000 Islands
+15,Tesla Supercharger – Brockville,Brockville,ON,44.5895,-75.6871,Tesla,Tesla,150,8,10,1,outdoor,"McDonald's, Tim Hortons"
+16,Tesla Supercharger – Cornwall,Cornwall,ON,45.0225,-74.7411,Tesla,Tesla,250,10,5,1,outdoor,"Walmart, Tim Hortons – last ON stop"
+17,FLO – Cornwall,Cornwall,ON,45.021,-74.7398,FLO,CCS/CHAdeMO,50,2,20,1,outdoor,Cornwall Square Mall
+18,Tesla Supercharger – Vaudreuil-Dorion,Vaudreuil-Dorion,QC,45.3978,-74.0334,Tesla,Tesla,250,12,5,1,outdoor,"Costco, restaurants – first QC stop"
+19,Electrify Canada – Vaudreuil,Vaudreuil-Dorion,QC,45.401,-74.029,Electrify Canada,CCS/CHAdeMO,150,4,15,1,outdoor,Near highway exit
+20,Tesla Supercharger – Montreal West Island,Montreal,QC,45.4654,-73.8304,Tesla,Tesla,250,16,5,1,outdoor,Fairview Pointe-Claire – full dining
+21,Tesla Supercharger – Montreal Centre,Montreal,QC,45.5017,-73.5673,Tesla,Tesla,250,16,5,1,outdoor,Downtown – hotels and restaurants walkable
+22,Electrify Canada – Montreal Cavendish,Montreal,QC,45.4711,-73.6419,Electrify Canada,CCS/CHAdeMO,150,6,10,1,outdoor,Cavendish Mall
+23,FLO – Montreal Plateau,Montreal,QC,45.5236,-73.5802,FLO,CCS/CHAdeMO,50,4,20,1,outdoor,Restaurants and cafes nearby
+24,Tesla Supercharger – Ottawa South,Ottawa,ON,45.3491,-75.7554,Tesla,Tesla,250,12,5,1,outdoor,"Barrhaven – restaurants, grocery"
+25,Tesla Supercharger – Ottawa Gloucester,Ottawa,ON,45.448,-75.549,Tesla,Tesla,250,10,5,1,outdoor,St. Laurent Shopping Centre
+26,ChargePoint – Ottawa Rideau,Ottawa,ON,45.4215,-75.6972,ChargePoint,CCS,50,2,20,1,indoor,Rideau Centre – warm indoor charging
+27,FLO – Ottawa Kanata,Ottawa,ON,45.302,-75.917,FLO,CCS/CHAdeMO,50,4,20,1,outdoor,Tanger Outlets Kanata
+28,Tesla Supercharger – Casselman,Casselman,ON,45.311,-75.09,Tesla,Tesla,150,6,10,1,outdoor,Tim Hortons – compact highway stop
+29,FLO – Hawkesbury,Hawkesbury,ON,45.607,-74.605,FLO,CCS/CHAdeMO,50,2,20,1,outdoor,Near ON/QC border
+30,Tesla Supercharger – Trois-Rivieres,Trois-Rivieres,QC,46.35,-72.55,Tesla,Tesla,250,8,5,1,outdoor,Natural halfway stop – restaurants
+31,FLO – Drummondville,Drummondville,QC,45.88,-72.49,FLO,CCS/CHAdeMO,50,2,20,1,outdoor,Alternate mid-point stop on A-20
+32,Tesla Supercharger – Quebec City Laurier,Quebec City,QC,46.8065,-71.2141,Tesla,Tesla,250,10,5,1,outdoor,Les Galeries de la Capitale mall
+33,Electrify Canada – Quebec City,Quebec City,QC,46.81,-71.22,Electrify Canada,CCS/CHAdeMO,150,4,10,1,outdoor,Near highway – quick stop
+34,FLO – Quebec City Ste-Foy,Quebec City,QC,46.78,-71.29,FLO,CCS/CHAdeMO,50,4,20,1,indoor,Place Ste-Foy mall – indoor warm stop
+35,Tesla Supercharger – Burlington,Burlington,ON,43.3255,-79.799,Tesla,Tesla,250,10,5,1,outdoor,Mapleview Centre mall
+36,Tesla Supercharger – St. Catharines,St. Catharines,ON,43.18,-79.25,Tesla,Tesla,150,8,10,1,outdoor,Near Pen Centre mall
+37,Electrify Canada – Niagara Falls,Niagara Falls,ON,43.09,-79.08,Electrify Canada,CCS/CHAdeMO,150,4,10,1,outdoor,Near tourist area
+38,Tesla Supercharger – Barrie,Barrie,ON,44.389,-79.669,Tesla,Tesla,250,12,5,1,outdoor,"Georgian Mall – Tim Hortons, restaurants"
+39,FLO – Orillia,Orillia,ON,44.599,-79.42,FLO,CCS/CHAdeMO,50,2,20,1,outdoor,Costco plaza
+40,ChargePoint – Gravenhurst,Gravenhurst,ON,44.92,-79.37,ChargePoint,CCS,50,2,25,1,outdoor,Muskoka Wharf – scenic waterfront stop

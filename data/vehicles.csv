@@ -1,0 +1,52 @@
+make,model,year,fuel_type,city_l_per_100km,highway_l_per_100km,tank_capacity_l,ev_range_km,ev_kwh_per_100km,charge_to_80pct_min,compatible_networks,notes
+Toyota,Camry,2023,gasoline,10.2,7.1,60,,,,N/A,Common family sedan
+Toyota,Corolla,2023,gasoline,9.0,6.5,50,,,,N/A,Compact – very efficient
+Toyota,RAV4,2023,gasoline,11.0,8.2,55,,,,N/A,Canada's best-selling SUV
+Toyota,Highlander,2023,gasoline,12.5,9.5,72,,,,N/A,3-row SUV – large tank
+Honda,Civic,2023,gasoline,8.7,6.4,46,,,,N/A,Compact – excellent efficiency
+Honda,CR-V,2023,gasoline,10.5,7.9,57,,,,N/A,Popular compact SUV
+Honda,Pilot,2023,gasoline,13.1,10.2,70,,,,N/A,3-row family SUV
+Ford,F-150,2023,gasoline,14.5,10.8,136,,,,N/A,Full-size pickup – very large tank
+Ford,Escape,2023,gasoline,10.8,7.6,57,,,,N/A,Compact SUV
+Chevrolet,Silverado 1500,2023,gasoline,15.1,11.2,98,,,,N/A,Full-size pickup
+Chevrolet,Equinox,2023,gasoline,11.0,8.5,55,,,,N/A,Compact SUV
+Jeep,Grand Cherokee,2023,gasoline,13.2,9.8,93,,,,N/A,Large SUV – big tank
+Dodge,Challenger,2023,gasoline,14.7,10.1,72,,,,N/A,Muscle car – poor highway economy
+Ram,1500,2023,gasoline,14.8,11.0,98,,,,N/A,Full-size pickup
+Nissan,Rogue,2023,gasoline,10.7,8.0,55,,,,N/A,Popular crossover
+Subaru,Outback,2023,gasoline,10.5,7.8,74,,,,N/A,AWD wagon – large tank
+Subaru,Forester,2023,gasoline,10.2,7.6,63,,,,N/A,AWD SUV
+Mazda,CX-5,2023,gasoline,10.4,7.7,58,,,,N/A,Reliable compact SUV
+Mazda,3,2023,gasoline,9.0,6.6,51,,,,N/A,Sporty compact
+BMW,3 Series,2023,gasoline,10.0,7.0,59,,,,N/A,Luxury compact
+Mercedes-Benz,C-Class,2023,gasoline,10.3,7.2,66,,,,N/A,Luxury sedan
+Audi,Q5,2023,gasoline,11.2,8.0,75,,,,N/A,Luxury SUV – large tank
+Volkswagen,Golf,2023,gasoline,9.1,6.7,50,,,,N/A,Hatchback – efficient
+Volvo,XC60,2023,gasoline,11.0,7.8,71,,,,N/A,Luxury SUV
+Genesis,GV70,2023,gasoline,11.5,8.3,70,,,,N/A,Korean luxury SUV
+Toyota,Prius,2023,hybrid,4.8,4.9,43,,,,N/A,Best highway efficiency in class
+Toyota,RAV4 Hybrid,2023,hybrid,7.1,6.8,55,,,,N/A,Self-charging – no plug needed
+Toyota,Highlander Hybrid,2023,hybrid,8.1,7.0,72,,,,N/A,3-row hybrid – great range
+Honda,CR-V Hybrid,2023,hybrid,6.0,5.5,57,,,,N/A,Strong highway efficiency
+Ford,F-150 PowerBoost,2023,hybrid,12.0,9.5,136,,,,N/A,Hybrid pickup – massive range
+Toyota,RAV4 Prime,2023,plugin_hybrid,2.8,6.5,55,68,,45,CCS,68km EV range then runs on gasoline
+Ford,Escape PHEV,2023,plugin_hybrid,3.0,7.2,52,56,,40,CCS,56km EV range then gasoline
+Tesla,Model 3,2023,electric,,,,576,14.9,25,Tesla Supercharger,V3 250kW – ~170km added in 15 min
+Tesla,Model Y,2023,electric,,,,533,16.3,25,Tesla Supercharger,Most popular EV in Canada
+Tesla,Model S,2023,electric,,,,652,17.3,20,Tesla Supercharger,V3 Supercharger – fastest Tesla charging
+Tesla,Model X,2023,electric,,,,543,20.0,25,Tesla Supercharger,Large SUV – higher consumption
+Tesla,Cybertruck,2024,electric,,,,547,22.5,30,Tesla Supercharger,"AWD – large vehicle, higher draw"
+Hyundai,IONIQ 5,2023,electric,,,,488,17.0,18,"CCS,CHAdeMO",800V – 10-80% in 18 min at 350kW station
+Hyundai,IONIQ 6,2023,electric,,,,614,14.3,18,CCS,800V – most efficient Hyundai EV
+Kia,EV6,2023,electric,,,,504,16.1,18,CCS,800V – same platform as IONIQ 5
+Ford,Mustang Mach-E,2023,electric,,,,490,18.0,45,CCS,DC fast charge to 80% in 45 min
+Chevrolet,Bolt EV,2023,electric,,,,417,16.1,60,CCS,Slower DC charging – plan longer stops
+Volkswagen,ID.4,2023,electric,,,,435,17.6,38,CCS,DC fast charge to 80% in 38 min
+Nissan,Leaf,2023,electric,,,,349,17.3,40,CHAdeMO,Shortest range – needs most stops
+BMW,iX,2023,electric,,,,452,21.0,35,CCS,DC fast charge 10-80% in 35 min
+Volvo,C40 Recharge,2023,electric,,,,438,19.5,37,CCS,DC fast charge to 80% in 37 min
+Audi,e-tron,2023,electric,,,,446,24.0,38,CCS,Higher consumption – larger platform
+Porsche,Taycan,2023,electric,,,,484,24.8,23,CCS,800V – 5-80% in 23 min
+Mercedes-Benz,EQS,2023,electric,,,,770,19.5,31,CCS,Longest EV range available
+Rivian,R1T,2023,electric,,,,505,23.0,40,CCS,Electric pickup – higher consumption
+Lucid,Air,2023,electric,,,,837,13.2,22,CCS,Best efficiency and longest range EV
